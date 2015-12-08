@@ -1,84 +1,9 @@
-11.30
-保存粒子和打开本地粒子文件，可添加粒子图片。试revit导出fbx经3dmax导出babylon。
-12.1
-用slider控制拆分程度。鼠标移动选择mesh。双击加标注。
-12.2
-更新引擎。把原始代码独立出来方便以后更新。粒子编辑器可配置多个粒子同时显示。
-12.3
-雨的粒子效果。粒子编辑器修改。粒子存储格式改为自带的serialize。多粒子存储。
-12.4
-移动设备操作的Bug需要更新引擎。预置可选粒子。例子的网页。
-
-12.7
-看移动设备不能转镜头的问题，得用hand不能用pep。看ts，只能用gulp编。试用gulp。
+asdfashfbs
 
 
-
-
-useEmissiveAsIllumination
-1234567890abcde一二三四五六七八九十ABCDE
-
-
-要买的书：css, github, 设计模式。jquery。
-
-博弈游戏。
-
-node.js简单双人对战服务器。
-3D解迷框架。
-RPG。
-
-drogon new，加上build.bat，publish下生成项目名字目录的包。
-load类，对scene,mesh,texture。考察BABYLON.AssetsManager
-触摸事件swallow。
-菜单按下、移动、移回等处理。
-事件管理器。触摸事件，
-导演对象。
-定时器。
-动作管理。
-菜单。
-网络。
-编辑器。
-
-
-drogon compile -m release
-
-drogon compile -p web -m release
-
-42.62.1.80:25139
-administrator
-8ik,2wsx
-网址：42.62.1.80
-ftp地址：ftp://42.62.1.80
-用户名：kkkk
-密码：0p;/7ujm
-
-
-地址：http://www.drogon3d.com/test/
-FTP登录主机地址： ftp://hyu1900140001.my3w.com/htdocs/test/
-FTP登录用户名： hyu1900140001
-FTP密码：drogon3d1907
-
-
-微信公众号。
-AppID(应用ID)wx7eefe72eaee9af3e
-AppSecret(应用密钥)49939879c59e3f3c4ff7a7e7a1f3456b
-
-6814 
-网页挂机用户码：50570F99CDC94572839E85460B8504BF
-SID：1q0p4dtl41ja1tbvmpbjp3yu
-
-DataEye
-帐号 2079336681@qq.com
-密码 wzh65965211
-
-ydxmb2014@sina.com
-Jj123456
-
-ydxmb2014@163.com
-Jj123456jj
-
-yw528@sina.com
-Yw123456
-
-jinmiao@363.com
-Jingjieyouxi2009
+ghsd fgrg
+ e
+ rg
+g
+er
+ gerg
